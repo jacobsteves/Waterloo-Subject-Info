@@ -1,0 +1,13 @@
+/* styling for app here */
+.courseslol{
+  font-size: 1.5em
+}
+.centered {
+  margin: auto;
+  width: 100%;
+}
+body {
+  background-image: url("https://uwaterloo.ca/parking/sites/ca.parking/files/uploads/images/c007222_main_entrance-1680x1050-wallpaper_0.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}

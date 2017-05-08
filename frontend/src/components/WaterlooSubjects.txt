@@ -1,0 +1,113 @@
+Accounting & Financial Management AFM ART
+Actuarial Science ACTSC
+Anthropology ANTH
+Applied Health Sciences AHS
+Applied Language Studies APPLS
+Applied Mathematics AMATH
+Architecture ARCH
+Arts ARTS
+Arts and Business ARBUS
+Aviation AVIA
+Bridge to Academic Success in English BASE
+Biology BIOL
+Biomedical Engineering BME
+Business (Wilfrid Laurier University) BUS
+Business, Entrepreneurship and Technology BET
+Chemical Engineering CHE
+Chemistry CHEM
+Chinese CHINA
+Church Music and Worship CMW
+Civil Engineering CIVE
+Classical Studies CLAS
+Cognitive Science COGSCI ART
+Combinatorics and Optimization CO
+Commerce COMM
+Computer Science CS
+Co-operative Work Term COOP
+Croatian CROAT
+Digital Arts Communication DAC
+Drama DRAMA ART
+Dutch DUTCH ART
+Earth Sciences EARTH
+East Asian EASIA
+Economics ECON
+Electrical and Computer Engineering ECE
+English ENGL
+English for Academic Success EFAS
+English for Multilingual Speakers EMLS
+Environment and Business ENBUS
+Environment, Resources and Sustainability ERS
+Environmental Engineering ENVE
+Environmental Studies ENVS
+Fine Arts FINE
+French FR
+General Engineering GENE
+Geography and Environmental Management GEOG
+Geological Engineering GEOE
+German GER
+Gerontology GERON
+Global Business and Digital Arts GBDA
+Greek GRK
+Health HLTH
+History HIST
+Human Resources Management HRM
+Human Sciences HUMSC
+Independent Studies IS
+International Development INDEV
+International Studies INTST
+Italian ITAL
+Italian Studies ITALST
+Japanese JAPAN
+Jewish Studies JS
+Kinesiology KIN
+Knowledge Integration INTEG
+Korean KOREA
+Latin LAT
+Legal Studies LS
+Mathematical Business MATBUS
+Management Sciences MSCI
+Materials and Nano-Sciences MNS
+Mathematics MATH
+Mathematics Electives MTHEL
+Mechanical Engineering ME
+Mechatronics Engineering MTE
+Medieval Studies MEDVL
+Music MUSIC
+Nanotechnology Engineering NE
+Native Studies NATST
+Optometry OPTOM
+Peace and Conflict Studies PACS
+Pharmacy PHARM
+Philosophy PHIL
+Physics PHYS
+Planning PLAN
+Political Science PSCI
+Portuguese PORT
+Professional Development PD
+Professional Development for Architecture Students PDARCH
+Professional Development for Pharmacy Students PDPHRM
+Psychology PSYCH
+Pure Mathematics PMATH
+Recreation and Leisure Studies REC
+Religious Studies RS
+Russian RUSS
+Russian and East European Studies REES
+Science SCI
+Science and Business SCBUS
+Sexuality, Marriage, and Family Studies SMF
+Social Development Studies SDS
+Social Venture Entrepreneur SVENT
+Social Work (Social Development Studies) SOCWK
+Social Work (Bachelor of Social Work) SWREN
+Society, Technology and Values STV
+Sociology SOC
+Software Engineering SE
+Spanish SPAN
+Speech Communication SPCOM
+Statistics STAT
+Studies in Islam SI
+Systems Design Engineering SYDE
+University UNIV
+Visual Culture VCULT
+Women's Studies WS
+Work-term Report WKRPT
