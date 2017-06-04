@@ -72,8 +72,7 @@ class Uni extends React.Component {
     window.removeEventListener("resize", this.updateDimensions);
   }
 
-  static propTypes = {
-    unis: instanceOf(Immutable.list),
+  static propTypes: {
     getCourses: func.isRequired,
     inputValue: string
   }
