@@ -1,7 +1,7 @@
 # UWaterloo-Subject-Info
 Find information about any UWaterloo course. Using React, this project utilizes the university's public API and Facebook's Fixed Data Tables.
 ## Demo
-[![https://gyazo.com/b4d8883f0acf73821b8e542aa9ba4007](https://i.gyazo.com/b4d8883f0acf73821b8e542aa9ba4007.gif)](https://gyazo.com/b4d8883f0acf73821b8e542aa9ba4007)
+[![demo/uwci-demo.gif](demo/uwci-demo.gif)](demo/uwci-demo.gif)
 
 ## SetUp
 Clone this repo and set up your react environment. Install the required node modules.
