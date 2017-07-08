@@ -4,9 +4,6 @@
     list-style-type: none;
 }
 
-.results {
-}
-
 .FilterBoxDropDown {
   	margin: 0 auto;
     padding-top: 5%;
@@ -28,19 +25,19 @@
      -moz-box-shadow: 0 8px 6px -6px black;
           box-shadow: 0 8px 6px -6px black;
 }
-.FilterBoxDropDown .n {
+.FilterBoxDropDown .entry {
     font: normal 13px/50px Arial, Helvetica, sans-serif;
     padding: 0 25px;
   	background: #01abf8;
   	color:#FFF;
   }
 
-  .FilterBoxDropDown .y {
-    font: normal 13px/50px Arial, Helvetica, sans-serif;
-    padding: 0 25px;
-  	background: #bbb;
-    color:#FFF;
-  }
+.FilterBoxDropDown .entrySelected {
+  font: normal 13px/50px Arial, Helvetica, sans-serif;
+  padding: 0 25px;
+	background: #bbb;
+  color:#FFF;
+}
 
 .FilterBoxInput {
     width: 100%;

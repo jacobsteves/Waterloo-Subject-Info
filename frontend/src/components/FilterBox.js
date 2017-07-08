@@ -197,7 +197,7 @@ class FilterBox extends React.Component {
       if(count != this.props.max){
         ++count;
         return (
-          <div className={this.state.currentClicked === cur ? 'y' : 'n'} key={i}
+          <div className={this.state.currentClicked === cur ? 'entrySelected' : 'entry'} key={i}
             onClick={(e) => this.handlePresetClick(e, cur)}
             onMouseEnter={() => this.handlePresetEnter(cur)}
             onMouseLeave={() => this.handlePresetExit(cur)}>
